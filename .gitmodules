@@ -16,3 +16,6 @@
 [submodule "my_plugins/vim-vinegar"]
 	path = my_plugins/vim-vinegar
     url = git@github.com:tpope/vim-vinegar.git
+[submodule "my_plugins/vim-floaterm"]
+	path = my_plugins/vim-floaterm
+	url = git@github.com:voldikss/vim-floaterm.git
